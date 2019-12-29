@@ -5,17 +5,17 @@
 
 ## Menu
 * File
- * New - create new fractal
- * Save - save fractal as image
- * Print - print fractal
+  * New - create new fractal
+  * Save - save fractal as image
+  * Print - print fractal
 * Tools
- * Render - render fractal
- * Grids - show/hide grids
- * Auto render (check box) - automatic render on mouse wheel scroll
- * Iteration analyser
+  * Render - render fractal
+  * Grids - show/hide grids
+  * Auto render (check box) - automatic render on mouse wheel scroll
+  * Iteration analyser
 * View
- * Zoom +
- * Zoom -
+  * Zoom +
+  * Zoom -
 * About
 
 ## Mandelbrot fractal
